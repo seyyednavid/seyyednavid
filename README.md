@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Javascript, React and Bootstrap**
 
-- 📫 How to reach me **Navidhejazi68@yahoo.com /n 
+- 📫 How to reach me **Navidhejazi68@yahoo.com 
 seyyednavidhejazijouybari@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
