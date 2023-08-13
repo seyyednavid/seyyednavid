@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Javascript, React, Node.js and SQL **
 
-- 📫 How to reach me **Navidhejazi68@yahoo.com 
+- 📫 How to reach me **Hejazi_navid@yahoo.com
 seyyednavidhejazijouybari@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
