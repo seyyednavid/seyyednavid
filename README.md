@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Navid</h1>
 <h3 align="center">A Passionate Full-Stack Developer</h3>
-<b>I am actively seeking new opportunities in software engineering.</b>
+<p style="color:red"><b>I am actively seeking new opportunities in software engineering.</b></p><br />
 - 🔭 I’m currently working on **Javascript, React, Node.js and SQL**
 
 - 📫 How to reach me **Hejazi_navid@yahoo.com, seyyednavidhejazijouybari@gmail.com**
