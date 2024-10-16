@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Navid</h1>
-<h3 align="center">A Passionate Software Engineer</h3>
-- 🔭 I’m currently working on **Javascript, React, Node.js and SQL**
+<h3 align="center">A Passionate Full Stack developerr</h3>
+- 🔭 I am a dedicated Full Stack Developer with a strong foundation in web technologies and programming languages. My expertise spans the entire development spectrum, from front-end to back-end, and I excel in applying Agile methodology to deliver high-quality solutions for both individual and team projects. Currently, I focus on developing robust applications using Python, Flask, SQL, and WebSocket.
+
+I have a keen interest in AI and machine learning, holding several certifications in these areas, including AI-900 (𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭 𝐀𝐳𝐮𝐫𝐞 𝐀𝐈 𝐅𝐮𝐧𝐝𝐚𝐦𝐞𝐧𝐭𝐚𝐥𝐬) and AI-102 (𝐀𝐳𝐮𝐫𝐞 𝐀𝐈 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫 𝐀𝐬𝐬𝐨𝐜𝐢𝐚𝐭𝐞). I am also actively learning more about Azure to expand my cloud computing skills. I continuously strive to stay at the forefront of technological advancements to provide innovative solutions.
 
 - 📫 How to reach me **Hejazi_navid@yahoo.com, seyyednavidhejazijouybari@gmail.com**
 
