@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Navid</h1>
-<h3 align="center"> Data Scientist | Full Stack Developer | AI Enthusiast </h3>
-<p align="left">🔭 I’m a passionate Data Scientist with a strong foundation in full-stack development. I enjoy solving real-world problems using data-driven approaches, building ML models, and turning insights into action — while also being able to engineer the backend systems that serve them.
+<h3 align="center">Full-Stack Developer Building AI-Powered Applications </h3>
+<p align="left">🔭 I’m a Full-Stack Developer with commercial experience building Python applications, real-time software–hardware integrations, and systems used by real customers.
 
-With hands-on experience in Python, SQL, Scikit-Learn, Keras, Flask, and cloud platforms (AWS & Azure), I build robust applications and deploy intelligent solutions. My background includes real-time queue management systems and machine learning projects such as image search engines and customer targeting models.</p> 
+Alongside my professional work, I build AI applications focused on Retrieval-Augmented Generation (RAG), agentic workflows, and intelligent automation. My portfolio includes a multi-agent software engineering platform deployed on AWS, an Advanced RAG system with hybrid retrieval and evaluation, and end-to-end AI automation workflows.
+
+I’m currently seeking Junior AI Engineer, AI Application Developer, and Agentic AI Developer opportunities where I can combine practical software engineering experience with applied AI.
+</p> 
 
 ---
 
