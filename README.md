@@ -16,7 +16,7 @@ I’m currently seeking Junior AI Engineer, AI Application Developer, and Agenti
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/seyyednavid-hejazijouybari-bb035857/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/seyyednavid-hejazijouybari-bb035857/" height="30" width="40" /></a>
 </p>
 
-- 🌐 Portfolio: [seyyednavid.github.io](https://seyyednavid.github.io)
+- 🌐 Github: [seyyednavid.github.io](https://seyyednavid.github.io)
 - 🌐 Portfolio: [https://navidhejazi.netlify.app](https://seyyednavid.github.io/) 
 
 <h3 align="left">Languages and Tools:</h3>
